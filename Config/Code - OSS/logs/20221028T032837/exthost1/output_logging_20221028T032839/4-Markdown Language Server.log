@@ -1,0 +1,10 @@
+[Trace 22:30:23.333] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/kevin/work/PreImage/atlasify/README.md
+[Trace 22:30:23.333] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/kevin/work/PreImage/atlasify/README.md
+[Trace 22:30:23.334] Server: connection.languages.diagnostics.on: file:///home/kevin/work/PreImage/atlasify/README.md
+[Trace 22:30:23.336] Server: connection.languages.diagnostics.on: file:///home/kevin/work/PreImage/atlasify/README.md
+[Trace 22:30:23.356] DocumentSymbolProvider: provideDocumentSymbols — file:///home/kevin/work/PreImage/atlasify/README.md 1
+[Debug 22:30:23.356] LinkProvider: compute - file:///home/kevin/work/PreImage/atlasify/README.md
+[Debug 22:30:23.493] TableOfContentsProvider: create - file:///home/kevin/work/PreImage/atlasify/README.md
+[Debug 22:30:23.552] MdFoldingProvider: provideFoldingRanges — file:///home/kevin/work/PreImage/atlasify/README.md 1
+[Trace 22:30:25.226] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/kevin/work/PreImage/atlasify/README.md
+[Trace 22:30:25.227] VsCodeClientWorkspace: deleteDocument: file:///home/kevin/work/PreImage/atlasify/README.md

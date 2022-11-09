@@ -1,0 +1,4 @@
+[2022-11-03 19:02:38.433] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-11-03 19:02:39.583] [main] [info] Starting extension host with pid 92406 (fork() took 6 ms).
+[2022-11-03 19:15:37.552] [main] [info] Extension host with pid 92406 exited with code: null, signal: SIGTERM.
+[2022-11-03 19:15:37.595] [main] [error] CodeWindow: renderer process gone (reason: killed, code: 15)

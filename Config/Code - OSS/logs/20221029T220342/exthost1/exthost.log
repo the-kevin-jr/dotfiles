@@ -1,0 +1,12 @@
+[2022-10-29 22:03:45.644] [exthost] [info] Extension host with pid 8515 started
+[2022-10-29 22:03:45.644] [exthost] [info] Skipping acquiring lock for /home/kevin/.config/Code - OSS/User/workspaceStorage/124c31d2d988ce71aec3356da5e45a01.
+[2022-10-29 22:03:45.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-10-29 22:03:45.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-29 22:03:45.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-29 22:03:45.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-29 22:03:45.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-29 22:03:46.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-29 22:03:46.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-29 22:03:47.524] [exthost] [info] Eager extensions activated
+[2022-10-29 22:03:47.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-29 22:03:47.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "\"Source Code Pro\"",
+    "editor.fontSize": 11,
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontFamily": "\"MesloLGS NF\"",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Dracula Soft"
+}

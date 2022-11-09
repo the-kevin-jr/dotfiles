@@ -1,0 +1,36 @@
+[2022-10-28 16:16:54.705] [sharedprocess] [info] Starting worker process with pid 18423 (type: fileWatcher, window: 1).
+[2022-10-28 16:20:29.372] [sharedprocess] [info] Getting Manifest... mvllow.rose-pine
+[2022-10-28 16:20:29.555] [sharedprocess] [info] Installing extension: mvllow.rose-pine
+[2022-10-28 16:20:31.141] [sharedprocess] [info] Downloaded extension: mvllow.rose-pine /home/kevin/.config/Code - OSS/CachedExtensionVSIXs/mvllow.rose-pine-2.4.1-universal
+[2022-10-28 16:20:31.183] [sharedprocess] [info] Extracted extension to /home/kevin/.vscode-oss/extensions/.54c86ea2-90f2-4a28-9f8f-e6ef3b53491d: mvllow.rose-pine
+[2022-10-28 16:20:31.194] [sharedprocess] [info] Renamed to /home/kevin/.vscode-oss/extensions/mvllow.rose-pine-2.4.1-universal
+[2022-10-28 16:20:31.195] [sharedprocess] [info] Extracting completed. mvllow.rose-pine
+[2022-10-28 16:20:31.197] [sharedprocess] [info] Extension installed successfully: mvllow.rose-pine
+[2022-10-28 16:22:34.065] [sharedprocess] [info] Getting Manifest... avoonix.pink-as-fox
+[2022-10-28 16:22:34.252] [sharedprocess] [info] Installing extension: avoonix.pink-as-fox
+[2022-10-28 16:22:36.914] [sharedprocess] [info] Downloaded extension: avoonix.pink-as-fox /home/kevin/.config/Code - OSS/CachedExtensionVSIXs/avoonix.pink-as-fox-1.8.1-universal
+[2022-10-28 16:22:36.958] [sharedprocess] [info] Extracted extension to /home/kevin/.vscode-oss/extensions/.44b51167-20ab-449e-acf1-9fb31c845a2b: avoonix.pink-as-fox
+[2022-10-28 16:22:36.965] [sharedprocess] [info] Renamed to /home/kevin/.vscode-oss/extensions/avoonix.pink-as-fox-1.8.1-universal
+[2022-10-28 16:22:36.966] [sharedprocess] [info] Extracting completed. avoonix.pink-as-fox
+[2022-10-28 16:22:36.967] [sharedprocess] [info] Extension installed successfully: avoonix.pink-as-fox
+[2022-10-28 16:22:47.332] [sharedprocess] [info] Getting Manifest... webfreak.cute-theme
+[2022-10-28 16:22:47.511] [sharedprocess] [info] Installing extension: webfreak.cute-theme
+[2022-10-28 16:22:48.972] [sharedprocess] [info] Downloaded extension: webfreak.cute-theme /home/kevin/.config/Code - OSS/CachedExtensionVSIXs/webfreak.cute-theme-0.0.4-universal
+[2022-10-28 16:22:48.989] [sharedprocess] [info] Extracted extension to /home/kevin/.vscode-oss/extensions/.bfdcdf3a-1565-4618-af8c-c6aee77fa704: webfreak.cute-theme
+[2022-10-28 16:22:49.001] [sharedprocess] [info] Renamed to /home/kevin/.vscode-oss/extensions/webfreak.cute-theme-0.0.4-universal
+[2022-10-28 16:22:49.002] [sharedprocess] [info] Extracting completed. webfreak.cute-theme
+[2022-10-28 16:22:49.003] [sharedprocess] [info] Extension installed successfully: webfreak.cute-theme
+[2022-10-28 16:23:02.549] [sharedprocess] [info] Getting Manifest... shoobah.pinkasheck
+[2022-10-28 16:23:02.728] [sharedprocess] [info] Installing extension: shoobah.pinkasheck
+[2022-10-28 16:23:03.975] [sharedprocess] [info] Downloaded extension: shoobah.pinkasheck /home/kevin/.config/Code - OSS/CachedExtensionVSIXs/shoobah.pinkasheck-0.0.7-universal
+[2022-10-28 16:23:03.986] [sharedprocess] [info] Extracted extension to /home/kevin/.vscode-oss/extensions/.b9503df3-e402-4ee4-adc6-646cac26c208: shoobah.pinkasheck
+[2022-10-28 16:23:03.992] [sharedprocess] [info] Renamed to /home/kevin/.vscode-oss/extensions/shoobah.pinkasheck-0.0.7-universal
+[2022-10-28 16:23:03.993] [sharedprocess] [info] Extracting completed. shoobah.pinkasheck
+[2022-10-28 16:23:03.994] [sharedprocess] [info] Extension installed successfully: shoobah.pinkasheck
+[2022-10-28 16:23:28.259] [sharedprocess] [info] Getting Manifest... nullxception.cherry-theme
+[2022-10-28 16:23:28.438] [sharedprocess] [info] Installing extension: nullxception.cherry-theme
+[2022-10-28 16:23:30.152] [sharedprocess] [info] Downloaded extension: nullxception.cherry-theme /home/kevin/.config/Code - OSS/CachedExtensionVSIXs/nullxception.cherry-theme-0.2.4-universal
+[2022-10-28 16:23:30.167] [sharedprocess] [info] Extracted extension to /home/kevin/.vscode-oss/extensions/.6f1da40c-6da3-4ab0-a303-0af71040df59: nullxception.cherry-theme
+[2022-10-28 16:23:30.178] [sharedprocess] [info] Renamed to /home/kevin/.vscode-oss/extensions/nullxception.cherry-theme-0.2.4-universal
+[2022-10-28 16:23:30.179] [sharedprocess] [info] Extracting completed. nullxception.cherry-theme
+[2022-10-28 16:23:30.180] [sharedprocess] [info] Extension installed successfully: nullxception.cherry-theme

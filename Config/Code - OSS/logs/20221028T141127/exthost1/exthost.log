@@ -1,0 +1,13 @@
+[2022-10-28 14:11:30.643] [exthost] [info] Extension host with pid 3203 started
+[2022-10-28 14:11:30.644] [exthost] [info] Skipping acquiring lock for /home/kevin/.config/Code - OSS/User/workspaceStorage/70a2d3710b455a609cf881b2efd78169.
+[2022-10-28 14:11:30.878] [exthost] [info] ExtensionService#_doActivateExtension sumneko.lua, startup: false, activationEvent: 'onLanguage:lua'
+[2022-10-28 14:11:30.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-28 14:11:30.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-28 14:11:30.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-28 14:11:31.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-28 14:11:31.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-28 14:11:31.725] [exthost] [info] Eager extensions activated
+[2022-10-28 14:11:31.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-28 14:11:31.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-28 16:15:06.558] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-28 16:15:06.571] [exthost] [info] Extension host with pid 3203 exiting with code 0

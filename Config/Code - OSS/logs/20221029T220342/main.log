@@ -1,0 +1,3 @@
+[2022-10-29 22:03:42.833] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-29 22:03:44.416] [main] [info] Starting extension host with pid 8515 (fork() took 8 ms).
+[2022-10-30 00:10:04.118] [main] [info] Extension host with pid 8515 exited with code: null, signal: SIGHUP.

@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "\"Source Code Pro\", \"Icomoon\"",
+    "editor.fontSize": 11,
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontFamily": "\"MesloLGS NF\"",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Night Owl"
+}

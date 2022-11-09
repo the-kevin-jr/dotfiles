@@ -1,0 +1,67 @@
+[2022-10-17 17:45:51.834] [info] Logseq App(0.8.8) Starting... 
+[2022-10-17 17:45:54.841] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-10-17 17:45:54.898] [debug] :electron.handler/unwatch-dir {:path "/local"}
+[2022-10-17 17:45:54.898] [debug] :electron.handler/watch-dir {:path "/local"}
+[2022-10-17 17:46:06.755] [info] :electron.handler/open-dir open folder selection dialog
+[2022-10-17 17:46:42.112] [debug] :electron.handler/open-dir {:path "/home/kevin/.logseq"}
+[2022-10-17 17:46:42.310] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-10-17 17:47:26.841] [debug] [Marketplace] Installing: vipzhicheng/logseq-plugin-mark-map
+[2022-10-17 17:47:27.492] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/vipzhicheng/logseq-plugin-mark-map/releases/latest
+[2022-10-17 17:47:27.494] [debug] [Marketplace] [Release Asset] # v0.2.10  => https://api.github.com/repos/vipzhicheng/logseq-plugin-mark-map/releases/assets/80438283
+[2022-10-17 17:47:28.646] [debug] [Marketplace] [UpdatedDONE] v0.2.10
+[2022-10-17 17:47:29.037] [debug] [Marketplace] Installing: pengx17/logseq-plugin-tabs
+[2022-10-17 17:47:29.475] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/pengx17/logseq-plugin-tabs/releases/latest
+[2022-10-17 17:47:29.477] [debug] [Marketplace] [Release Asset] # v1.17.2  => https://api.github.com/repos/pengx17/logseq-plugin-tabs/releases/assets/79506356
+[2022-10-17 17:47:30.235] [debug] [Marketplace] [UpdatedDONE] v1.17.2
+[2022-10-17 17:47:31.438] [debug] [Marketplace] Installing: xyhp915/logseq-journals-calendar
+[2022-10-17 17:47:31.885] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/latest
+[2022-10-17 17:47:31.885] [debug] [Marketplace] [Release Asset] # 0.10.5  => https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/assets/63391532
+[2022-10-17 17:47:32.715] [debug] [Marketplace] [UpdatedDONE] 0.10.5
+[2022-10-17 17:47:52.644] [debug] [Marketplace] Installing: pengx17/logseq-plugin-bullet-threading
+[2022-10-17 17:47:53.073] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/pengx17/logseq-plugin-bullet-threading/releases/latest
+[2022-10-17 17:47:53.073] [debug] [Marketplace] [Release Asset] # v1.1.0  => https://api.github.com/repos/pengx17/logseq-plugin-bullet-threading/releases/assets/63780499
+[2022-10-17 17:47:53.840] [debug] [Marketplace] [UpdatedDONE] v1.1.0
+[2022-10-17 17:47:54.681] [debug] [Marketplace] Installing: gidongkwon/logseq-plugin-tags
+[2022-10-17 17:47:55.108] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/gidongkwon/logseq-plugin-tags/releases/latest
+[2022-10-17 17:47:55.108] [debug] [Marketplace] [Release Asset] # v0.1.2  => https://api.github.com/repos/gidongkwon/logseq-plugin-tags/releases/assets/54122137
+[2022-10-17 17:47:56.088] [debug] [Marketplace] [UpdatedDONE] v0.1.2
+[2022-10-17 17:48:14.853] [debug] [Marketplace] Installing: sansui233/logseq-bonofix-theme
+[2022-10-17 17:48:15.331] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/sansui233/logseq-bonofix-theme/releases/latest
+[2022-10-17 17:48:15.332] [debug] [Marketplace] [Release Asset] # v3.8.0  => https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/79036931
+[2022-10-17 17:48:16.347] [debug] [Marketplace] [UpdatedDONE] v3.8.0
+[2022-10-17 17:48:17.105] [debug] [Marketplace] Installing: pengx17/logseq-dev-theme
+[2022-10-17 17:48:17.540] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/pengx17/logseq-dev-theme/releases/latest
+[2022-10-17 17:48:17.540] [debug] [Marketplace] [Release Asset] # v1.26.12  => https://api.github.com/repos/pengx17/logseq-dev-theme/releases/assets/71288898
+[2022-10-17 17:48:18.763] [debug] [Marketplace] [UpdatedDONE] v1.26.12
+[2022-10-17 17:48:27.827] [debug] [Marketplace] Installing: dracula/logseq
+[2022-10-17 17:48:28.264] [debug] [Marketplace] [Release Latest]  https://api.github.com/repos/dracula/logseq/releases/latest
+[2022-10-17 17:48:28.264] [debug] [Marketplace] [Release Asset] # undefined  => null
+[2022-10-17 17:48:29.244] [debug] [Marketplace] [UpdatedDONE] undefined
+[2022-10-17 17:48:56.760] [debug] window-all-closed Quiting...
+[2022-10-17 17:49:01.297] [info] Logseq App(0.8.8) Starting... 
+[2022-10-17 17:49:04.796] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-10-17 17:49:04.903] [debug] :electron.handler/unwatch-dir {:path "/home/kevin/.logseq"}
+[2022-10-17 17:49:04.904] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-10-27 18:48:10.294] [info] Logseq App(0.8.9) Starting... 
+[2022-10-27 18:48:13.026] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-10-27 18:48:13.213] [debug] :electron.handler/unwatch-dir {:path "/home/kevin/.logseq"}
+[2022-10-27 18:48:13.215] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-10-27 21:03:55.050] [info] Logseq App(0.8.9) Starting... 
+[2022-10-27 21:03:57.698] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-10-27 21:03:57.796] [debug] :electron.handler/unwatch-dir {:path "/home/kevin/.logseq"}
+[2022-10-27 21:03:57.797] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-10-27 21:04:32.605] [debug] window-all-closed Quiting...
+[2022-10-28 00:51:26.573] [info] Logseq App(0.8.9) Starting... 
+[2022-10-28 00:51:29.587] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-10-28 00:51:29.676] [debug] :electron.handler/unwatch-dir {:path "/home/kevin/.logseq"}
+[2022-10-28 00:51:29.677] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-10-28 00:52:23.767] [debug] window-all-closed Quiting...
+[2022-10-28 03:23:55.427] [info] Logseq App(0.8.9) Starting... 
+[2022-10-28 03:23:57.952] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-10-28 03:23:58.049] [debug] :electron.handler/unwatch-dir {:path "/home/kevin/.logseq"}
+[2022-10-28 03:23:58.050] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-11-10 05:05:16.258] [info] Logseq App(0.8.9) Starting... 
+[2022-11-10 05:05:19.384] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq/config"}
+[2022-11-10 05:05:19.454] [debug] :electron.handler/unwatch-dir {:path "/home/kevin/.logseq"}
+[2022-11-10 05:05:19.455] [debug] :electron.handler/watch-dir {:path "/home/kevin/.logseq"}
+[2022-11-10 05:10:09.680] [debug] window-all-closed Quiting...

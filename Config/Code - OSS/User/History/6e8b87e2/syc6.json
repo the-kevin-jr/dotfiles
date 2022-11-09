@@ -1,0 +1,10 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "\"FireCode\"",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontFamily": "\"MesloLGS NF\"",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Dracula",
+    "files.autoGuessEncoding": true,
+    "editor.fontSize": 13
+}
